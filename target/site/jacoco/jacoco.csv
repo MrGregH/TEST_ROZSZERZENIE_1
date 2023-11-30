@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Test1Rozszerzenie,default,Circle,10,21,0,0,3,6,3,4,3,4
+Test1Rozszerzenie,default,Shape,0,3,0,0,0,1,0,1,0,1
+Test1Rozszerzenie,default,Rectangle,15,25,0,0,4,7,4,4,4,4
+Test1Rozszerzenie,default,ShapeService.new TypeReference() {...},6,0,0,0,1,0,1,0,1,0
+Test1Rozszerzenie,default,ShapeFactory,84,0,8,0,13,0,11,0,7,0
+Test1Rozszerzenie,default,ShapeService,123,0,16,0,26,0,15,0,7,0
+Test1Rozszerzenie,default,Square,10,19,0,0,3,6,3,4,3,4
+Test1Rozszerzenie,default,Main,85,0,2,0,17,0,4,0,3,0
